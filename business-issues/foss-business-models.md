@@ -1,6 +1,6 @@
 # FOSS Business Models
 
-There is still no proper understanding of FOSS profitability and business models. The most critical issue that needs to be understood when it comes to OSS business model is that according to the OSS licensing terms, free redistribution of licensed software is allowed. As redistribution of Software is allowed, it is not feasible to base revenue just on Licensing fees.
+The most critical issue that needs to be understood when it comes to OSS business model is that according to the OSS licensing terms, free redistribution of licensed software is allowed. As redistribution of Software is allowed, it is not feasible to base revenue just on Licensing fees.
 
 Following elements are [identified](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf) by Rajala et al. as essential elements in any business model for software companies:
 
